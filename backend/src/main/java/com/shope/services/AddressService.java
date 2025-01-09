@@ -1,9 +1,9 @@
-package com.thecodereveal.shopease.services;
+package com.shope.services;
 
-import com.thecodereveal.shopease.auth.entities.User;
-import com.thecodereveal.shopease.dto.AddressRequest;
-import com.thecodereveal.shopease.entities.Address;
-import com.thecodereveal.shopease.repositories.AddressRepository;
+import com.shope.auth.entities.User;
+import com.shope.dto.AddressRequest;
+import com.shope.entities.Address;
+import com.shope.repositories.AddressRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.stereotype.Service;

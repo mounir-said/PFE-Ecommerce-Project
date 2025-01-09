@@ -1,7 +1,7 @@
-package com.thecodereveal.shopease.repositories;
+package com.shope.repositories;
 
-import com.thecodereveal.shopease.auth.entities.User;
-import com.thecodereveal.shopease.entities.Order;
+import com.shope.auth.entities.User;
+import com.shope.entities.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

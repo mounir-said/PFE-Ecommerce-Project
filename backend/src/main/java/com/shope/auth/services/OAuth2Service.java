@@ -1,7 +1,7 @@
-package com.thecodereveal.shopease.auth.services;
+package com.shope.auth.services;
 
-import com.thecodereveal.shopease.auth.entities.User;
-import com.thecodereveal.shopease.auth.repositories.UserDetailRepository;
+import com.shope.auth.entities.User;
+import com.shope.auth.repositories.UserDetailRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.oauth2.core.user.OAuth2User;
 import org.springframework.stereotype.Service;

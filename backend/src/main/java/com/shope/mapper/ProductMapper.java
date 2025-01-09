@@ -1,10 +1,10 @@
-package com.thecodereveal.shopease.mapper;
+package com.shope.mapper;
 
-import com.thecodereveal.shopease.dto.ProductDto;
-import com.thecodereveal.shopease.dto.ProductResourceDto;
-import com.thecodereveal.shopease.dto.ProductVariantDto;
-import com.thecodereveal.shopease.entities.*;
-import com.thecodereveal.shopease.services.CategoryService;
+import com.shope.dto.ProductDto;
+import com.shope.dto.ProductResourceDto;
+import com.shope.dto.ProductVariantDto;
+import com.shope.entities.*;
+import com.shope.services.CategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

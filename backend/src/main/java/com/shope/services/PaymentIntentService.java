@@ -1,10 +1,10 @@
-package com.thecodereveal.shopease.services;
+package com.shope.services;
 
 import com.stripe.exception.StripeException;
 import com.stripe.model.PaymentIntent;
 import com.stripe.param.PaymentIntentCreateParams;
-import com.thecodereveal.shopease.auth.entities.User;
-import com.thecodereveal.shopease.entities.Order;
+import com.shope.auth.entities.User;
+import com.shope.entities.Order;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;

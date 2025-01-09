@@ -1,6 +1,6 @@
-package com.thecodereveal.shopease.repositories;
+package com.shope.repositories;
 
-import com.thecodereveal.shopease.entities.Address;
+import com.shope.entities.Address;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

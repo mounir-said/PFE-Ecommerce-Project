@@ -1,7 +1,7 @@
-package com.thecodereveal.shopease.auth.entities;
+package com.shope.auth.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.thecodereveal.shopease.entities.Address;
+import com.shope.entities.Address;
 import jakarta.persistence.*;
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;

@@ -1,12 +1,12 @@
-package com.thecodereveal.shopease.auth.controller;
+package com.shope.auth.controller;
 
-import com.thecodereveal.shopease.auth.config.JWTTokenHelper;
-import com.thecodereveal.shopease.auth.dto.LoginRequest;
-import com.thecodereveal.shopease.auth.dto.RegistrationRequest;
-import com.thecodereveal.shopease.auth.dto.RegistrationResponse;
-import com.thecodereveal.shopease.auth.dto.UserToken;
-import com.thecodereveal.shopease.auth.entities.User;
-import com.thecodereveal.shopease.auth.services.RegistrationService;
+import com.shope.auth.config.JWTTokenHelper;
+import com.shope.auth.dto.LoginRequest;
+import com.shope.auth.dto.RegistrationRequest;
+import com.shope.auth.dto.RegistrationResponse;
+import com.shope.auth.dto.UserToken;
+import com.shope.auth.entities.User;
+import com.shope.auth.services.RegistrationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

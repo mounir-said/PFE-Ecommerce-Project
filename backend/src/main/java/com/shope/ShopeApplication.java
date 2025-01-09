@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease;
+package com.shope;
 
 import com.stripe.Stripe;
 import jakarta.annotation.PostConstruct;
@@ -14,13 +14,13 @@ import java.util.Arrays;
 import java.util.Collections;
 
 @SpringBootApplication
-public class ShopeaseApplication {
+public class ShopeApplication {
 
 	@Value("${stripe.secret}")
 	private String stripeSecret;
 
 	public static void main(String[] args) {
-		SpringApplication.run(ShopeaseApplication.class, args);
+		SpringApplication.run(ShopeApplication.class, args);
 
 	}
 

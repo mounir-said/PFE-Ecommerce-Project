@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease.entities;
+package com.shope.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

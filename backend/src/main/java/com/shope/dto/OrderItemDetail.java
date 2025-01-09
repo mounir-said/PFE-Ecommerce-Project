@@ -1,6 +1,6 @@
-package com.thecodereveal.shopease.dto;
+package com.shope.dto;
 
-import com.thecodereveal.shopease.entities.Product;
+import com.shope.entities.Product;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease.auth.config;
+package com.shope.auth.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

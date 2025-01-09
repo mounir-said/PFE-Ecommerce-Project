@@ -1,7 +1,7 @@
-package com.thecodereveal.shopease.dto;
+package com.shope.dto;
 
-import com.thecodereveal.shopease.entities.Address;
-import com.thecodereveal.shopease.entities.OrderStatus;
+import com.shope.entities.Address;
+import com.shope.entities.OrderStatus;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

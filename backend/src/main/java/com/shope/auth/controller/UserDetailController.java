@@ -1,7 +1,7 @@
-package com.thecodereveal.shopease.auth.controller;
+package com.shope.auth.controller;
 
-import com.thecodereveal.shopease.auth.dto.UserDetailsDto;
-import com.thecodereveal.shopease.auth.entities.User;
+import com.shope.auth.dto.UserDetailsDto;
+import com.shope.auth.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

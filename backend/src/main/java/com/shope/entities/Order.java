@@ -1,7 +1,7 @@
-package com.thecodereveal.shopease.entities;
+package com.shope.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.thecodereveal.shopease.auth.entities.User;
+import com.shope.auth.entities.User;
 import jakarta.persistence.*;
 import lombok.*;
 

@@ -8,10 +8,10 @@
 		<version>3.3.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.thecodereveal</groupId>
-	<artifactId>shopease</artifactId>
+	<groupId>com.shope</groupId>
+	<artifactId>shope</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shopease</name>
+	<name>shope</name>
 	<description>E-commerce Application</description>
 	<url/>
 	<licenses>

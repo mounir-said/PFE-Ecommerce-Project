@@ -1,7 +1,7 @@
-package com.thecodereveal.shopease.services;
+package com.shope.services;
 
-import com.thecodereveal.shopease.dto.ProductDto;
-import com.thecodereveal.shopease.entities.Product;
+import com.shope.dto.ProductDto;
+import com.shope.entities.Product;
 
 import java.util.List;
 import java.util.UUID;
